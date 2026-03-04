@@ -1,5 +1,6 @@
-# 💫 About Me:
-<br><br>🔭 I’m currently working on<br><br>AI-powered applications using LLM APIs<br><br>Parallel graph traversal (BFS/DFS) with lock-free techniques<br><br>Scalable backend logic for intelligent systems<br><br>Feature-rich Flutter applications (games, utilities, management systems)<br><br>👯 I’m looking to collaborate on<br><br>Open-source AI tools and automation systems<br><br>Performance-focused backend or system-level projects<br><br>Research-driven implementations in parallel computing<br><br>Real-world SaaS products solving actual problems<br><br>🤝 I’m looking for help with<br><br>Advanced AI system architecture<br><br>Model optimization & efficient inference pipelines<br><br>Distributed system design<br><br>Production-grade Dev workflows (CI/CD, scaling, monitoring)<br><br>🌱 I’m currently learning<br><br>Large Language Model (LLM) internals & transformer architecture<br><br>Prompt engineering & evaluation frameworks<br><br>Vector databases & semantic search systems<br><br>System design for AI-integrated applications<br><br>Advanced Data Structures & Algorithms (C++ focus)<br><br>💬 Ask me about<br><br>Flutter app architecture & state management<br><br>QA processes & software testing strategies<br><br>Formal specification & verification (Why3, C)<br><br>REST API integration & business logic handling<br><br>DSA problem solving in C++<br><br>⚡ Fun fact<br><br>I like turning theoretical concepts (formal methods, probability, algorithms) into practical, working systems.
+Software engineer building AI-powered apps with LLMs.  
+Flutter dev, C++ DSA, parallel systems & formal methods.  
+Turning theory into scalable systems.
 
 
 ## 🌐 Socials:
